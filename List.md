@@ -4,6 +4,7 @@ The list
 - Gawen Arab (Lima)
 - Pierre-Loup Archambault Griffais (Valve)
 - Julien Barbier (while42, Docker)
+- Cyril Baÿ (Alwaysdata)
 - Romain Beauxis (Liquidsoap)
 - Hugo Beauzee-Luyssen (Skype core dev, VLC contributor)
 - Arnaud de Bermingham (Dedibox, Online)
