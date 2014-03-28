@@ -68,3 +68,7 @@ The list
 - William Durand (PHP Hateoas)
 - Nicolas Perriault (casperjs)
 - François-Xavier Bonnet (ESIgate)
+- Even Rouault (GDAL/OGR)
+- Thomas Bonfort (MapServer, MapCache)
+- Olivier Courtin (PostGIS, TinyOWS)
+- Éric Lemoine (OpenLayers)
