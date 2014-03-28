@@ -26,6 +26,7 @@ The list
 - Guillaume Charmes (Prestashop, Lead dev @ Docker)
 - Gilles Chehades (OpenSMTPd, Rentabiliweb)
 - Benoit Chesneau (Gunicorn)
+- Ludovic Copéré (Sony)
 - Simon Corsin (Mindie.co)
 - Olivier Courtin (PostGIS, TinyOWS)
 - Loic Dachary (FSF, GNU, Debian, April)
