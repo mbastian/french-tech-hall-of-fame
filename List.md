@@ -65,4 +65,4 @@ The list
 - Nicolas Fischbach (Securite.org, Colt Network)
 - Benoit Chesneau (Gunicorn)
 - Loic Dachary (FSF, GNU, Debian, April)
-- Sylvain Wallez (Apache Foundation, Anyware Services, Joost, Goojet, Scoop.it, Sigfox)
+- Sylvain Wallez (Apache Foundation, Anyware Technologies, Joost, Goojet, Scoop.it, Sigfox)
