@@ -70,3 +70,4 @@ The list
 - François-Xavier Bonnet (ESIgate)
 - Wilfried Durand (Mailjet)
 - Pierre Urban (Keley Live)
+- Cyril Baÿ (Alwaysdata)
