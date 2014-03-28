@@ -64,3 +64,4 @@ The list
 - Benoit Jacquemont (Akeneo)
 - Nicolas Fischbach (Securite.org, Colt Network)
 - Benoit Chesneau (Gunicorn)
+- Loic Dachary (FSF, GNU, Debian, April)
