@@ -56,7 +56,7 @@ The list
 - Johan Euphrosine (Google App Engine)
 - Thomas Petazzoni (Buildroot, Linux kernel)
 - Solomon Hykes (Docker)
-- Victor Berchet (Angular Dart, Symphony contributor)
+- Victor Berchet (Angular Dart, Symfony contributor)
 - Matthias Bussonnier (IPython)
 - Benjamin Scetbun (42.fr)
 - Louis Bellet (Helios, Ant, ID.net)
