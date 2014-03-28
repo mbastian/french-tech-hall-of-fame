@@ -31,6 +31,7 @@ The list
 - Simon Corsin (Mindie.co)
 - Olivier Courtin (PostGIS, TinyOWS)
 - Loic Dachary (FSF, GNU, Debian, April)
+- Jeremy De France (GRI)
 - Kaelig Deloumeau-Prigent (Guardian, BBC)
 - Karl Dubost (Mozilla, Opera, W3C)
 - Wilfried Durand (Mailjet)
