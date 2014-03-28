@@ -70,3 +70,4 @@ The list
 - François-Xavier Bonnet (ESIgate)
 - Wilfried Durand (Mailjet)
 - Pierre Urban (Keley Live)
+- Sylvain Wallez (Apache Foundation, Anyware Technologies, Joost, Goojet, Scoop.it, Sigfox)
