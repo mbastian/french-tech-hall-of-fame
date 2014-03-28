@@ -68,3 +68,5 @@ The list
 - William Durand (PHP Hateoas)
 - Nicolas Perriault (casperjs)
 - François-Xavier Bonnet (ESIgate)
+- Wilfried Durand (Mailjet)
+- Pierre Urban (Keley Live)
