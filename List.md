@@ -2,6 +2,7 @@ The list
 --------
 
 - Gawen Arab (Lima)
+- Pierre-Loup Archambault Griffais (Valve)
 - Julien Barbier (while42, Docker)
 - Romain Beauxis (Liquidsoap)
 - Hugo Beauzee-Luyssen (Skype core dev, VLC contributor)
@@ -35,6 +36,7 @@ The list
 - Ludovic Fauvet (VLC core dev)
 - Nicolas Fischbach (Securite.org, Colt Network)
 - Remi Gaillard (Prestashop)
+- François Gaudin (Punchtab)
 - Nicolas Geoffroy (Dart core-dev)
 - Jonathan Gnassia (IONIS, Bocal)
 - Eric Gouyer (Mutualisé Online.net)
@@ -44,6 +46,7 @@ The list
 - Benoit Jacquemont (Akeneo)
 - Jean-Baptise Kempf (VLC)
 - Gregory Kokanosky (TextMe)
+- Jerome Laban (Nventive)
 - Matthieu Laban (Fly Dev Studio)
 - Julien Lemoine (Algolia founder)
 - Guillaume Luccisano (SocialCam)
