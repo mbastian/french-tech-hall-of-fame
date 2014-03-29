@@ -87,4 +87,6 @@ The list
 - Pierre Urban (Keley Live)
 - Marc Vertes (Meiosys, LXC precursor, Sigfox)
 - Sylvain Wallez (Apache Foundation, Anyware Technologies, Joost, Goojet, Scoop.it, Sigfox)
-- Sylvain Zimmer (Jamendo, dotConferences)
+- Sylvain Zimmer (Jamendo, dotConferences)   
+- Antoine Mercadal (archipel, Cappuccino, NuageNetworks)
+- Xavier Ducrohet (Google - Android)
