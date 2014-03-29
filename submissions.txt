@@ -1,1 +1,2 @@
 - Franck Denis (OpenDNS, pure-ftpd, ...)
+- Mathieu Bastian (LinkedIn, Gephi)
