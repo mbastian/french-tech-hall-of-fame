@@ -30,6 +30,7 @@ The list
 - Ludovic Copéré (Sony)
 - Simon Corsin (Mindie.co)
 - Olivier Courtin (PostGIS, TinyOWS)
+- Agnès Crepet (Java, NinjaSquad, Mix-IT)
 - Loic Dachary (FSF, GNU, Debian, April)
 - Jeremy De France (GRI)
 - Kaelig Deloumeau-Prigent (Guardian, BBC)
