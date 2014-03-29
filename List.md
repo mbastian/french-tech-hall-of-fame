@@ -67,6 +67,7 @@ The list
 - Gilles Moncaubeig (Overblog, Ebuzzing)
 - Steve Morin (XBMCTorrent, boot2docker)
 - Edouard Munk (TextMe)
+- Laure Némée (Leetchi)
 - Anne Nicolas (Hupstream, Mageia)
 - Tristan Nitot (Mozilla)
 - Lucas Nussbaum (Debian)
