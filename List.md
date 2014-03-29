@@ -67,6 +67,7 @@ The list
 - Gilles Moncaubeig (Overblog, Ebuzzing)
 - Steve Morin (XBMCTorrent, boot2docker)
 - Edouard Munk (TextMe)
+- Anne Nicolas (Hupstream, Mageia)
 - Tristan Nitot (Mozilla)
 - Lucas Nussbaum (Debian)
 - Martin Ottenwalter (Capitaine Train)
