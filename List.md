@@ -33,6 +33,7 @@ The list
 - Loic Dachary (FSF, GNU, Debian, April)
 - Jeremy De France (GRI)
 - Kaelig Deloumeau-Prigent (Guardian, BBC)
+- Franck Denis (OpenDNS, pure-ftpd)
 - Karl Dubost (Mozilla, Opera, W3C)
 - Wilfried Durand (Mailjet)
 - William Durand (PHP Hateoas)
