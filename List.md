@@ -32,6 +32,7 @@ The list
 - Olivier Courtin (PostGIS, TinyOWS)
 - Agnès Crepet (Java, NinjaSquad, Mix-IT)
 - Loic Dachary (FSF, GNU, Debian, April)
+- Julien Danjou (Awesome WM, Debian, Emacs, OpenStack)
 - Jeremy De France (GRI)
 - Kaelig Deloumeau-Prigent (Guardian, BBC)
 - Franck Denis (OpenDNS, pure-ftpd)
