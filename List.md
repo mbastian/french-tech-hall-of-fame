@@ -26,7 +26,7 @@ The list
 - Laurent Cerveau (MacOS Audio Engine)
 - Guillaume Charmes (Prestashop, Lead dev @ Docker)
 - Gilles Chehades (OpenSMTPd, Rentabiliweb)
-- Benoit Chesneau (Gunicorn)
+- Benoit Chesneau (Gunicorn, CouchDB)
 - Ludovic Copéré (Sony)
 - Simon Corsin (Mindie.co)
 - Olivier Courtin (PostGIS, TinyOWS)
