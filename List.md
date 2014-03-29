@@ -71,6 +71,7 @@ The list
 - Martin Ottenwalter (Capitaine Train)
 - Thomas Parisot (BBC)
 - Jérémie Patonnier (Mozilla)
+- François Perrad (Parrot VM, CPAN, Lua)
 - Nicolas Perriault (CasperJS)
 - Thomas Petazzoni (Buildroot, Linux kernel)
 - Jérome Petazzoni (Docker core-dev)
